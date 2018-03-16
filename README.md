@@ -3,7 +3,7 @@
 ### Overview
 This is a web application that allows users to exchange their unwanted used books with other users.
 
-Created by [Giada Simonetti](https://github.com/GiadaSimonetti) || [Agata Golebiewska](https://github.com/MissDove) || [Lewis Moore](https://github.com/lewmoore) || [Benjamin Pourian](https://github.com/bpourian) || [Alex Wilson](https://github.com/alextwilson) || [Alexandra Fina](https://github.com/AlexandraGF)
+Created by [Benjamin Pourian](https://github.com/bpourian) || [Giada Simonetti](https://github.com/GiadaSimonetti) || [Agata Golebiewska](https://github.com/MissDove) || [Lewis Moore](https://github.com/lewmoore) || [Alex Wilson](https://github.com/alextwilson) || [Alexandra Fina](https://github.com/AlexandraGF)
 
 ![Screenshot-2](img/screen.png)
 
